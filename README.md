@@ -59,7 +59,7 @@ The system uses historical player data and machine learning techniques to genera
 
 **Dhanush N**  
 📧 dhanushnataraj06@gmail.com  
-🔗 GitHub: https://github.com/whiteshadow008  
+
 
 ---
 
